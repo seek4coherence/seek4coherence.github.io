@@ -1,10 +1,10 @@
-## Portfolio
+## Portfolio Projects
 
 ---
 
-### Category Name 1 
+### Data Analysis 
 
-[Project 1 Title](/sample_page)
+[Data cleaning, Exploratory Analysis, and Hypothesis Testing with Python](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
