@@ -6,7 +6,7 @@
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
-<img src="images/datadesc.png?raw=true"/>
+<img src="images/datadesc2.png?raw=true"/>
 
 ### 2. Assess assumptions on which statistical inference will be based
 
