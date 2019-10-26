@@ -8,6 +8,7 @@ The dataset was read in using pandas and stored in a dataframe as a variable nam
 
 <img src="images/datadesc2.png?raw=true"/>
 
+
 After previewing the data in a table it becomes apparent the TotalCharges and MonthlyCharges columns are the same numerical format, however only MonthlyCharges is in a numerical format. Converting TotalCharges to a float is preformed in order to conduct proper analysis. Searching for null values shows there are 11. Rows containing null values are dropped. Lastly a column containing CustomerID is of no value to the analysis and is dropped.
 
 <img src="images/table.png?raw=true"/>
