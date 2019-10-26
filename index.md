@@ -5,7 +5,7 @@
 ### Data Analysis 
 
 [Data cleaning, Exploratory Analysis, and Hypothesis Testing with Python](/sample_page)
-<img src="images/distplot.jpg?raw=true"/>
+<img src="images/EDAPython.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
