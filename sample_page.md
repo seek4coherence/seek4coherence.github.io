@@ -13,6 +13,7 @@ After previewing the data in a table it becomes apparent the TotalCharges and Mo
 <img src="images/table.png?raw=true"/>
 
 Code for cleaning steps
+
 <img src="images/cleaning.png?raw=true"/>
 
 
